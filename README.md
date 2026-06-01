@@ -58,7 +58,6 @@ Built with **Next.js**, **TypeScript**, **Groq**, **GPT-OSS-120B**, **Google API
 
 ---
 
-## 📸 Application Preview
 
 <h2>📸 Application Preview</h2>
 <img src="./screenshots/landing_page.png" width="900"/>
