@@ -6,7 +6,7 @@ Exec-OS is an AI-powered executive assistant that helps users manage communicati
 
 The system analyzes incoming emails, generates intelligent draft responses, extracts actionable tasks, and schedules Google Calendar events through AI-driven automation.
 
-<h2>EXEC-OS</h2>
+
 <img src="./screenshots/exec_os.png" width="900"/>
 
 Built with **Next.js**, **TypeScript**, **Groq**, **GPT-OSS-120B**, **Google APIs**, **Clerk**, and **Neon PostgreSQL**.
@@ -65,16 +65,19 @@ Built with **Next.js**, **TypeScript**, **Groq**, **GPT-OSS-120B**, **Google API
 
 <h3>Dashboard</h3>
 Monitor agent activity, email processing statistics, drafts, and generated tasks.
+
 <img src="./screenshots/dashboard.png" width="900"/>
 
 
 <h3>Monitoring</h3>
 Track processed emails, extracted tasks, generated drafts, and workflow execution history.
+
 <img src="./screenshots/monitoring.png" width="900"/>
 
 
 <h3>Settings</h3>
 Manage Gmail and Google Calendar connections.
+
 <img src="./screenshots/settings.png" width="900"/>
 
 
